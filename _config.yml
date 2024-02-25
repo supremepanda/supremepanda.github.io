@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   It is a portfolio website of Furkan Baldır. 
 #twitter_username: username
 github_username: supremepanda
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
