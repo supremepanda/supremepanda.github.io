@@ -66,6 +66,9 @@ author:
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/furkanbaldir/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/supremepanda"
@@ -75,9 +78,9 @@ author:
 
 footer:
   links:
-    #- label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/furkanbaldir/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/supremepanda"
@@ -89,7 +92,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: about
     values:
       layout: single
       author_profile: true
@@ -99,7 +102,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: "_about"
       type: pages
     values:
       layout: single
