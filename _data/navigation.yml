@@ -1,9 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Experience"
+    url: /experience/
+  - title: "Professional Projects"
+    url: /professional-projects/
+  - title: "Personal Projects"
+    url: /personal-projects/
+  - title: "Contact"
+    url: /contact/
+  
