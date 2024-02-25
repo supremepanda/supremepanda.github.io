@@ -7,10 +7,16 @@ title: "Professional Projects"
 
 I can list the projects that I took part in the development as follows:
 
+## With E-Moli Interactive
+
+**Moly Jump**
+<img src="https://i.ytimg.com/vi/QZRva9Tp8FQ/maxresdefault.jpg" align="center" alt="image" width="50%" height="auto">
+> https://www.antalyapark.com.tr/en/product/36/moly-jump
+
 ## With Wixot
 
 **Journey Home**
-<img src="https://play-lh.googleusercontent.com/n0Q39igxn-PaQr7DrxxF8rE1eed12MRp5jDa9E1E3xXXu2QNPyFObcSCMvlN05zfMw" alt="image" style="width:50%, height:auto">
+<img src="https://play-lh.googleusercontent.com/n0Q39igxn-PaQr7DrxxF8rE1eed12MRp5jDa9E1E3xXXu2QNPyFObcSCMvlN05zfMw" align="center" alt="image" width="50%" height="auto">
 > https://apps.apple.com/tr/app/journey-home-merge-stories/id1635526159
 
 I made also **Run and Gun!**, **Knife Grind Master** and **Arm Gun Stack** but links are broken
@@ -18,16 +24,16 @@ I made also **Run and Gun!**, **Knife Grind Master** and **Arm Gun Stack** but l
 ## With Gigantic Games
 
 **Base Defense!** 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/01/f0/f601f0e2-056c-8fc9-779c-38dd71a92b19/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="image" style="width:50%, height:auto">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/01/f0/f601f0e2-056c-8fc9-779c-38dd71a92b19/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" align="center" alt="image" width="50%" height="auto">
 > https://apps.apple.com/tr/app/base-defense/id1628006501
 
 **Touchdown Blitz:**
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/1c/d2/971cd212-b0ae-7b3b-c8da-c5b12e8cd58c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="image" style="width:50%, height:auto">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/1c/d2/971cd212-b0ae-7b3b-c8da-c5b12e8cd58c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" align="center" alt="image" width="50%" height="auto">
 
 > https://apps.apple.com/us/app/touchdown-blitz/id1584308863
 
 **Evolving Run:** 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/95/1d/2e/951d2e05-f279-163c-7f0d-a31ac7e1225e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" alt="image" style="width:50%, height:auto">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/95/1d/2e/951d2e05-f279-163c-7f0d-a31ac7e1225e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" align="center" alt="image" width="50%" height="auto">
 
 > https://apps.apple.com/lt/app/evolving-run/id1589089984
 
