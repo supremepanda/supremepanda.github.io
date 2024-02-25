@@ -9,25 +9,26 @@ title: "Personal Projects"
 
 **GPU Instance Manager**
 
-> https://github.com/supremepanda/GPUInstanceManager
+> [https://github.com/supremepanda/GPUInstanceManager](https://github.com/supremepanda/GPUInstanceManager)
 ---
 <img  src="https://github.com/supremepanda/Spline-Editor/raw/master/screenshots/general_overview.png"  alt="image"  align="center" alt="image" width="50%" height="auto">
 
 **Spline Editor**
 
-> https://github.com/supremepanda/Spline-Editor
+> [https://github.com/supremepanda/Spline-Editor](https://github.com/supremepanda/Spline-Editor)
 ---
 <img  src="https://lh3.google.com/u/0/d/10OQd2vx1cXOQezEqjQ_Dm7spBDLY96Ju=w2559-h1270-iv1"  alt="image"  align="center" alt="image" width="50%" height="auto">
 
 **Fractal Image Steganography**
 
-> https://github.com/supremepanda/fractal-image-steganography
+> [https://github.com/supremepanda/fractal-image-steganography](https://github.com/supremepanda/fractal-image-steganography)
 ---
 
 <img  src="https://github.com/supremepanda/CatsVsDogs/raw/main/cat.gif"  alt="image"  align="center" alt="image" width="50%" height="auto">
 
 **Cat or Dog Prediction App**
 
-> https://github.com/supremepanda/CatsVsDogs
+> [https://github.com/supremepanda/CatsVsDogs](https://github.com/supremepanda/CatsVsDogs)
 
+---
 
