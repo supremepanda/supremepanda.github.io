@@ -8,7 +8,9 @@ title: "Personal Projects"
 **GPU Instance Manager**
 
 > [https://github.com/supremepanda/GPUInstanceManager](https://github.com/supremepanda/GPUInstanceManager)
+
 ---
+
 <img  src="https://github.com/supremepanda/Spline-Editor/raw/master/screenshots/general_overview.png"  alt="image"  align="center" alt="image" width="50%" height="auto">
 
 **Spline Editor**
