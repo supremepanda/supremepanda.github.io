@@ -3,10 +3,6 @@ permalink: /experience/
 title: "Experience"
 ---
 
-## Experience
-
----
-
 **Game Developer** at [Wixot](https://www.linkedin.com/company/wixot/)
 *26.07.2022 - 31.01.2024*
  - I worked on [Journey Home](https://apps.apple.com/tr/app/journey-home-merge-stories/id1635526159) title. And also I worked on some hyper-casual games in this company.
@@ -16,6 +12,7 @@ title: "Experience"
 
 **Game Developer** at [Gigantic](https://www.linkedin.com/company/giganticgames/)
 *20.07.2021 - 17.07.2022*
+
  - I worked on a lot of hyper-casual games over 20. 
  - I experienced on working for soft launch and launch games like [Base Defence!](https://apps.apple.com/tr/app/base-defense/id1628006501), [Touchdown Blitz](https://apps.apple.com/us/app/touchdown-blitz/id1584308863) and [Evolving Run!](https://apps.apple.com/lt/app/evolving-run/id1589089984)
  - I experienced on creating a game rapidly, improving game feeling and visual mindset.
