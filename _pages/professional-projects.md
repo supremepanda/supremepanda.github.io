@@ -3,11 +3,10 @@ permalink: /professional-projects/
 title: "Professional Projects"
 ---
 
-## Professional Projects
 
 I can list the projects that I took part in the development as follows:
 
-## With E-Moli Interactive
+### With E-Moli Interactive
 
 **Moly Jump**
 
@@ -17,7 +16,7 @@ I can list the projects that I took part in the development as follows:
 
 ---
 
-## With Wixot
+### With Wixot
 
 **Journey Home**
 
@@ -29,7 +28,7 @@ I made also **Run and Gun!**, **Knife Grind Master** and **Arm Gun Stack** but l
 
 ---
 
-## With Gigantic Games
+### With Gigantic Games
 
 **Base Defense!** 
 
