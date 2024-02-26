@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Furkan Baldır"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "Game Developer"
   links:
     #- label: "Website"
