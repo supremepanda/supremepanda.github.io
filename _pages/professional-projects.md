@@ -12,6 +12,8 @@ I can list the projects that I took part in the development as follows:
 
 <img src="https://i.ytimg.com/vi/QZRva9Tp8FQ/maxresdefault.jpg" align="center" alt="image" width="50%" height="auto">
 
+- The Moly Jump project was a multi-disciplinary project that we completed after long efforts. It is also my first professional project. I handled the whole software development process by myself using Unity game engine. The basic logic of the game is to jump on the trampoline by looking at the Kinect motion sensor camera and to play the game by seeing our own image on the giant screen in front of us. It consists of 5 games in total.
+
 > [https://www.antalyapark.com.tr/en/product/36/moly-jump](https://www.antalyapark.com.tr/en/product/36/moly-jump)
 
 ---
