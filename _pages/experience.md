@@ -1,6 +1,6 @@
 ---
 permalink: /experience/
-title: "Experiecne"
+title: "Experience"
 ---
 
 ## Experience
