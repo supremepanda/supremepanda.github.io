@@ -6,6 +6,7 @@ title: "Experience"
 **Founder** at [KineticPanda](kineticpanda.com)
 *01.02.2024 - Today*
  - I am developing the [E-Motion AI](https://www.linkedin.com/feed/update/urn:li:activity:7189624025873076224).
+ 
 ---
 
 **Game Developer** at [Wixot](https://www.linkedin.com/company/wixot/)
