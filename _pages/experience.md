@@ -3,6 +3,11 @@ permalink: /experience/
 title: "Experience"
 ---
 
+**Founder** at [KineticPanda](kineticpanda.com)
+*01.02.2024 - Today*
+ - I am developing the [E-Motion AI](https://www.linkedin.com/feed/update/urn:li:activity:7189624025873076224).
+---
+
 **Game Developer** at [Wixot](https://www.linkedin.com/company/wixot/)
 *26.07.2022 - 31.01.2024*
  - I worked on [Journey Home](https://apps.apple.com/tr/app/journey-home-merge-stories/id1635526159) title. And also I worked on some hyper-casual games in this company.

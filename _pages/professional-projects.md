@@ -6,6 +6,18 @@ title: "Professional Projects"
 
 I can list the projects that I took part in the development as follows:
 
+### With KineticPanda
+
+**E-Motion AI**
+
+<img src="https://static.wixstatic.com/media/5fbe1b_6edfdca50d4e49d3aed6af2b070a506b~mv2.gif" align="center" alt="image" width="50%" height="auto">
+
+- E-Motion AI project, which can be played with a standard webcam and a computer, children will have fun while moving. We work in partnership with E-Moli Interactive in the distribution of our project.
+
+> [https://www.linkedin.com/posts/furkanbaldir_aigaming-mixedreality-augmentedreality-activity-7189630405803687936-XaxJ?utm_source=share&utm_medium=member_desktop](E-Motion AI Video)
+
+> [kineticpanda.com](kineticpanda.com)
+
 ### With E-Moli Interactive
 
 **Moly Jump**
