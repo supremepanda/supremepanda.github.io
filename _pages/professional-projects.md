@@ -14,7 +14,7 @@ I can list the projects that I took part in the development as follows:
 
 - E-Motion AI project, which can be played with a standard webcam and a computer, children will have fun while moving. We work in partnership with E-Moli Interactive in the distribution of our project.
 
-> [https://www.linkedin.com/posts/furkanbaldir_aigaming-mixedreality-augmentedreality-activity-7189630405803687936-XaxJ?utm_source=share&utm_medium=member_desktop](E-Motion AI Video)
+> [https://www.linkedin.com/posts/furkanbaldir_aigaming-mixedreality-augmentedreality-activity-7189630405803687936-XaxJ?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/furkanbaldir_aigaming-mixedreality-augmentedreality-activity-7189630405803687936-XaxJ?utm_source=share&utm_medium=member_desktop)
 
 > [kineticpanda.com](kineticpanda.com)
 
