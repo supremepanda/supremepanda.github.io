@@ -7,9 +7,9 @@ title: "About"
 </p>
 
 <p>
-Also I started a startup.
+Also you can see our startup.
   
-[kineticpanda.com](kineticpanda.com)
+[e-moli.com](e-moli.com)
 </p>
 
 <p>You can browse through my portfolio as much as you like to see the work I have done so far.</p>
