@@ -3,9 +3,9 @@ permalink: /experience/
 title: "Experience"
 ---
 
-**Founder** at [KineticPanda](kineticpanda.com)
+**Co-Founder** at [E-Moli Interactive](e-moli.com)
 *01.02.2024 - Today*
- - I am developing the [E-Motion AI](https://www.linkedin.com/feed/update/urn:li:activity:7189624025873076224).
+ - I am developing the [E-Motion AI](https://www.linkedin.com/company/e-moli).
  
 ---
 
