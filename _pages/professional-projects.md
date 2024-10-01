@@ -6,7 +6,7 @@ title: "Professional Projects"
 
 I can list the projects that I took part in the development as follows:
 
-### With KineticPanda
+### With E-Moli Interactive as Co-Founder
 
 **E-Motion AI**
 
@@ -14,11 +14,11 @@ I can list the projects that I took part in the development as follows:
 
 - E-Motion AI project, which can be played with a standard webcam and a computer, children will have fun while moving. We work in partnership with E-Moli Interactive in the distribution of our project.
 
-> [https://www.linkedin.com/posts/furkanbaldir_aigaming-mixedreality-augmentedreality-activity-7189630405803687936-XaxJ?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/furkanbaldir_aigaming-mixedreality-augmentedreality-activity-7189630405803687936-XaxJ?utm_source=share&utm_medium=member_desktop)
+> [Video](https://www.linkedin.com/posts/ferhat-akturk-731787132_e-motion-ai-game-machine-konya-novaland-ugcPost-7220849577262796801-A38v?utm_source=share&utm_medium=member_desktop)
 
-> [kineticpanda.com](kineticpanda.com)
+> [e-moli.com](e-moli.com)
 
-### With E-Moli Interactive
+### With E-Moli Interactive as Freelancer
 
 **Moly Jump**
 
